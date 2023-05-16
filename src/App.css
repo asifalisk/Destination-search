@@ -1,0 +1,36 @@
+.container{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.input{
+  border-radius: 10px;
+  padding: 10px 5px;
+  width: 250px;
+  border: none;
+  background-color: rgb(221, 236, 250);
+  color: royalblue;
+  outline: none;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.ulitem{
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.liItem{
+  width: 500px;
+  margin: 20px;
+  text-align: center;
+}
+
+
+
